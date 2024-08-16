@@ -3,7 +3,6 @@ import { Link, NavLink } from 'react-router-dom';
 import { SlMenu, SlBasket  } from "react-icons/sl";
 import { useSelector } from 'react-redux';
 
-import '../app.css'
 
 function Nav(){
     const cart = useSelector(state => state.cartReducer);
