@@ -1,0 +1,149 @@
+{
+    "plants" : {
+        "1" : {
+            "name" : "Snake plant",
+            "id" : "1",
+            "price" : "75" ,
+            "info" : "Snake plant, also called mother-in-law's tongue, is a popular and hardy houseplant with stiff, sword-like leaves. It's available in different varieties, many of which have green-banded or striped leaves with a yellow or cream border.This attractive, easy-to-grow houseplant tolerates drought and low light, making it the go-to option for spaces like offices.",
+            "details" : {
+                "Snake Plant Care" : "Snake plant is a good choice for beginners because it tolerates a range of growing conditions. This low-maintenance container plant adds decorative interest when planted indoors.",
+                "Light" : "Snake plants grow best with 8 to 10 hours of indirect sunlight or a few hours of early-morning direct sunlight. Too much direct sun causes can burn the plant and damage its leaves. Snake plants tolerate some shade, but lack of light can stunt growth and dilute the plant's color.",
+                "Soil" : "As a houseplant, snake plants prefer a loose, well-drained potting soil mix. They do well in sandier soil which makes all-purpose cactus potting soil a good choice. Avoid soil mixes that contain a high percentage of peat, which can retain too much water.",
+                "Water" : "Water your snake plant when the soil has completely dried out, being sure to water deeply. During winter, check the plant's soil mix every two weeks or so—the plant might need to be watered only once a month. If you notice its leaves are brittle and dry, water immediately. Keep in mind that overwatering is the quickest way to kill a snake plant. Too much water or letting the plant sit in water will rot its root system. Yellowing leaves are an early sign of overwatering.",
+                "Temperature and Humidity" : "Snake plants grow best in warm temperatures between 70°F and 90°F. Keep plants away from cold drafts. They won't tolerate frost, and prolonged exposure to less than 50°F can kill the plant. They'll do fine with average household humidity between 30 and 50 percent."
+            }
+            
+        },
+        "2" : {
+            "name" : "Pilea peperomioides",
+            "id" : "2",
+            "price" : "100" ,
+            "info" : "Chinese money plant (Pilea peperomioides), often referred to as the pancake plant, coin plant, or UFO plant, is a popular houseplant thanks to its attractive coin-shaped foliage and ease of care. This flowering perennial in the nettle family (Urticaceae) is native to southern China, growing naturally along the base of the Himalayan mountains.It is grown primarily for its unique foliage. Although it can produce small, white flowers throughout the spring months, Pilea peperomioides does not often flower when grown indoors. Learn how to grow this attractive houseplant.",
+            "details" : {
+                "Pilea Peperomioides Care" : "Although this popular houseplant may be difficult to get your hands on, once you have one it is surprisingly easy to care for. Provide your Pilea peperomioides with bright light, semi-regular watering, and some light feeding in the spring and summer months and it will thrive. Plus, Chinese money plants are easy to propagate, and a healthy plant will produce plenty of offshoots which you can separate to create more plants—one of the reasons it is called the friendship plant. Share them with friends, or keep them for yourself. Once you have a pancake plant, you will never need to buy another one!",
+                "How Much Sunlight Do Pilea Plants Need?" : "The Pilea peperomioides thrives in medium to bright indirect light. Rotate your plant regularly to keep it looking symmetrical. Avoid locations that receive harsh, direct light as it will burn the delicate leaves. While this plant can adapt to lower light conditions; it will become leggy, grow fewer offshoots, and the coin-shaped leaves may become smaller. Overall, this plant is the healthiest and most attractive when grown in bright light conditions. ",
+                "What Type of Potting Soil Is Best for a Pilea Peperomioides?" : "Plant your Pilea peperomioides in rich, well-draining soil. A high-quality organic potting mix that is peat-based or coir-based is best. Amend the soil with perlite to increase drainage and ensure the soil does not become waterlogged. A soil pH between 6.0-7.0 is best for this plant.",
+                "How Should I Water a Pilea Plant?" : "This evergreen perennial is considered to have medium water needs. Allow the plant to nearly dry out between waterings and then water well. The leaves of Pilea peperomioides will begin to droop when it dries out, which is a good indication that it’s time for watering.",
+                "What Temperature and Humidity Do Pileas Need?" : "The average household temperature and humidity are fine for the Pilea peperomioides. Where possible, avoid overly dry conditions, which usually means keeping the plant away from heating vents or baseboards. The Chinese money plant is hardy to freezing temperatures, but when kept indoors avoid exposing it to temperatures below 50 degrees Fahrenheit (10 degrees Celsius). However, a short period of cold exposure in the winter months may help to encourage blooming."
+            }
+        },
+        "3" : {
+            "name" : "Hens and chicks",
+            "id" : "3",
+            "price" : "50" ,
+            "info" : "The hens and chicks plant, also called house leek, is a mat-forming perennial succulent with fleshy pointed leaves arranged in rosettes. The parent rosette is the 'hen,' and the smaller rosette offshoots or babies that grow from it are the 'chicks.' Plant hens and chicks in temperate to warm, dry climates and where there's full sun to light shade. This succulent prefers sandy, gravelly, well-draining soil, making it a favorite choice for landscapes with rock gardens, wall crevices, and places where other plants struggle.",
+            "details" : {
+                "Hens and Chicks Care" : "Here are the main care requirements, which are minimal, for growing hens and chicks. Place the plant in bright light or full sun unless you live in a very hot, dry climate, where it should be in light shade. Use well-draining, gravely soil outdoors or a succulent or cactus mix indoors. Avoid smothering the plant with too much water and fertilizer. Check the soil for dryness first before watering.",
+                "Light" : "Grow your hens and chicks plants in full sun (at least six hours daily), which will lead to optimal foliage coloration and plentiful offsets. That being said, the plants can also grow in partial shade, especially if they are being cared for in an especially hot, dry climate.",
+                "Soil" : "Hens and chicks plants are especially nonchalant about their soil but will grow best in a sandy or gravel mix. The main soil requirement for the plant is that it be well-draining. If your soil is heavy and doesn't drain well, work some gravel, pumice, perlite, or sand into the mixture to increase the aeration and drainage. These plants prefer neutral soil. If you're growing your plants in a container, the best potting medium is a mix formulated for succulents and cacti.",
+                "Water" : "Hens and chicks are drought-tolerant perennials that can withstand weeks without watering. Give newly transplanted plants sufficient water to help them get established, but once they are, be careful not to overwater them. On average, a plant can use one cup every two weeks or sooner in hot weather conditions. Check the soil and make sure it is dry before watering.",
+                "Temperature and Humidity" : "Hens and chicks can be successfully grown in various temperatures but prefer an average climate between 65 and 75 degrees Fahrenheit. If temperatures drop too low, they will not necessarily die off but will stop growing and go into a semi-dormant state. Additionally, hens and chicks tolerate various humidity levels and are popular in dry climates."
+            }
+        },
+        "4" : {
+            "name" : "Golden barrel cactus",
+            "id" : "4",
+            "price" : "50" ,
+            "info" : "The golden barrel cactus or golden ball (Echinocactus grusonii) is frequently cultivated as a houseplant. It rarely blooms indoors, but it may flower in the spring or summer if it is at least 15 years old and grown in ideal conditions. It's called a barrel cactus because, as the name implies, they are almost perfectly round when juvenile, with evenly spaced rows of spines on their deeply ribbed lobes. As they grow, they may stretch out, becoming more oval than circular. This cactus can grow up to 6 feet tall when fully mature. They grow slowly, so small 3-inch indoor specimens will remain manageable for many years before getting large.",
+            "details" : {
+                "Can You Grow Golden Barrel Inside?" : "Golden barrel cactus can be grown indoors. They aren't difficult to grow as long as these plants have the brightest, sunniest location. Usually, southern-facing windows offer the strongest sun. These are true, extreme desert plants that cannot handle standing water. Plant them in very well-draining soil or potting mix. They can produce flowers but usually won't start doing that until they are at least 6 inches wide, which can take about 15 years. Blooms get to about two to three inches wide and grow near the top of the barrel for about two to six weeks in the spring or summer. They usually do not bloom indoors since they require intense sunlight for flowering.",
+                "How to Grow Golden Barrel Cactus Indoors" : "The trick for growing a golden barrel cactus is to ensure it has full sun exposure during its growing season. It also needs a phosphorus-rich fertilizer given at least once monthly. Withhold water for a few months before the growing season. A simulated drought mimics its natural growth cycle in the wild. To encourage blooms in the growing season, give it water once a week when grown inside. This plant needs well-draining soil since soggy soil leads to root rot, potentially killing the plant. It thrives in a pH range of 6.1 to 7.5. Use a cacti/succulent potting mix for best results.",
+                "Sunlight" : "A golden barrel cactus does best in a sunny window with southern exposure and at least six hours of bright sunlight. Plants that do not get enough sunlight will grow slowly and fail to thrive.",
+                "Temperature and Humidity" : "While the plant favors warm conditions, the cactus can tolerate temperatures down to 50 degrees Fahrenheit. It does best without humidity.",
+                "Watering" : "Golden barrel cactus are prone to root rot. From fall to spring, water infrequently (every month or two) and ensure that the soil drains completely. Do not leave any water in the tray or allow it to sit in water. In winter, simulate drought conditions, giving no water. In early spring, gradually provide some water, increasing water to once per week in spring and summer, ensuring the water drains completely.",
+                "Air Circulation" : "Golden barrel cactus require air flow around the plant and low to no humidity. Ensure the plant is not in an airless zone. Air flow prevents golden barrel cactus from accumulating moisture."
+            }
+        },
+        "5" : {
+            "name" : "Aloe vera",
+            "id" : "5",
+            "price" : "100" ,
+            "info" : "Aloe vera, commonly grown as a houseplant, is known for its leaves which contain a soothing gel used on sunburns and other skin irritations. With over 300 species (the most common being Aloe barbadensis miller), this tropical succulent features fleshy lance-shape leaves with jagged edges that grow out from a basal rosette. Given the right growing conditions, spiky flowers will appear on the end of stalks in shades of yellow, red, or orange.",
+            "details" : {
+                "Aloe Vera Care" : "Aloe vera needs sandy soil or a cactus potting medium to thrive in containers. When grown outdoors in zones 10 through 12, plant this succulent next to others with similar needs. Blend aloe into a xeriscaped border planting, or make it an entryway focal point by potting it on its own. Potted aloe looks nice on decks and patios where it also comes in handy for use on emergency burns and bites. Outdoors, blooming may occur in late spring or early summer; blooms generally don't appear on potted indoor specimens. Either way, the plant needs to be very mature in order to bloom at all and, even still, may not bloom every year, especially if the leaves are being harvested for use. Aloe requires little watering and virtually no fertilizing, making it an easy-care houseplant for beginner gardeners.",
+                "Light" : "Aloe Vera needs bright, natural light in order to thrive. Outdoors, aim for up to six hours of full sun, with a small shade reprieve in the afternoon. When grown inside, aloe should be placed in a window with bright, indirect sunlight. Direct sun can burn its tender skin, yet lack of light will cause the plant to grow leggy and weaken its leaves, causing them to crease.",
+                "Soil" : "In its natural habitat, aloe vera commonly grows in nutrient-poor soil conditions, on sandy slopes with guaranteed drainage. Ensure proper drainage in a pot by using a cactus potting medium or traditional potting soil mixed with perlite and coarse sand. Aloe prefers its soil slightly acidic, hovering around 6.0, but it is highly adaptable and can also grow in neutral or alkaline soils, as well.",
+                "Water" : "Aloe prefers to be watered regularly, as long as the soil dries out completely in between waterings. If the soil remains dry for long periods of time, the leaves will shrivel and pucker slightly. Aloe vera goes dormant in the winter and won’t require any water at all, provided it received sufficient water during its growing season. If your climate is rainy during the winter, consider planting aloe in gravel or stones. This will allow the water to run off and prevent rot.",
+                "Temperature and Humidity" : "Aloe grows naturally in arid, tropical, and semi-tropical environments, so mimicking these conditions will allow it to thrive. Aim for a temperature between 55°F and 85°F and don't leave your container plant outdoors if nights are forecasted to dip below 40°F. Aloe can handle dry air just fine and does not require extra humidity. Forty percent relative humidity is perfect."
+            }
+        },
+        "6" : {
+            "name" : "Philodendron Brasil",
+            "id" : "6",
+            "price" : "100" ,
+            "info" : "Philodendron Brasil is the common name for a colorful cultivar of heart-leaf philodendron (Philodendron hederaceum), a popular, vining houseplant. Philodendron Brasil has distinct splashes of lime-green variegation on the otherwise classic green leaves. This tropical plant likes bright, indirect light, well-draining soil, and moderate humidity.",
+            "details" : {
+                "Philodendron Brasil Care" : "Here are the main requirements for growing philodendron Brasil: Provide it with bright, indirect light for best variegation results. Plant it in well-draining, slightly acidic soil. Water regularly but do not overwater or leave in soggy soil. Fertilize it monthly during the growing season in the spring and summer. Prune to remove dead foliage and to control its size.",
+                "Light" : "Philodendron Brasil is able to survive in a range of lighting conditions but will show its variegation best in bright, indirect light. In low-light conditions, the plant will get leggy and lose its variegation.",
+                "Soil" : "The plant survives in a standard indoor potting mix, however, it will thrive in slightly acid soil that is specifically designed for philodendron and other aroids (members of the Araceae family). Either buy commercially produced philodendron potting mix or make your own by mixing equal amounts of worm castings, perlite, peat moss or coco coir, and orchid bark.",
+                "Water" : "Allow the top 2 to 3 inches of soil to dry out between waterings and then water well. Philodendron Brasil is sensitive to overwatering and should never be left in soggy soil for extended periods. ",
+                "Temperature and Humidity" : "Native to the tropical rainforests of South America, philodendron Brasil grows best in warm, humid conditions. The plant does well indoors in typical household temperature and humidity levels, although providing it with extra humidity will encourage larger and more vigorous growth. These philodendrons are not cold tolerant and should never be left in temperatures below 55 to 60 degrees F."
+            }
+        },
+        "7" : {
+            "name" : "Chocolate soldier plant",
+            "id" : "7",
+            "price" : "50" ,
+            "info" : "If you have ever shopped for succulents, you have likely seen a chocolate soldier plant (Kalanchoe tomentosa). Chocolate soldier plants, also commonly called panda plant, are extremely popular houseplants because they are so easy to care for, as well as attractive and rather cute. They are sold at most nurseries, garden centers, and plant shops. It's easy to identify chocolate soldier; just look for the succulent with pale-green leaves covered with grayish-white fuzz and rimmed with chocolate brown spots. Chocolate soldier plants come in many sizes, from small to nearly 2 feet tall. Luckily, slow-growing chocolate soldier succulents are not prone to any serious pests or diseases, beyond occasional mealybugs or spider mites. These small, hardy succulents will thrive year-round planted in pots inside your home. All kalanchoes, including K. tomentosa, are toxic to cats and dogs and mildly toxic to humans if the leaves are eaten.12",
+            "details" : {
+                "Chocolate Soldier Care" : "Chocolate soldier plants are vertical-growing succulents in the Crassulaceae family that are native to Madagascar. They are easy succulents to care for, and they require at least 6 hours of sunlight to grow well. Chocolate soldier plants thrive indoors as houseplants, although they hardly ever bloom when grown indoors. In areas outside USDA garden zones 9 to 11, they can be placed outdoors during the summer, but will need to be brought indoors once temperatures begin to drop in the fall.",
+                "Light" : "Chocolate soldier plants appreciate bright, indirect light. Kalanchoe tomentosa does not do well in direct sun and is susceptible to leaf burn. If you notice that your chocolate soldier plant is getting leggy, however, move it to a brighter location.",
+                "Soil" : "As with most succulents, chocolate soldier plants require well-draining soil. A cactus or succulent soil mix is best for chocolate soldier plants. It can be purchased at most garden centers and nurseries. Allow the soil to dry out completely between waterings.",
+                "Water" : "Like most succulents, chocolate soldier plants are fairly drought-resistant. Allow the soil to dry out thoroughly between waterings, especially in the late summer months when the plant is dormant. Chocolate soldier plants may require more frequent watering if kept outside. When watering these plants, take care to pour the water at the base of the plant, rather than over its leaves, as doing so can lead to rot.",
+                "Temperature and Humidity" : "No need to worry about humidity when it comes to chocolate soldier plants; they enjoy dry conditions. The average household humidity is perfect for these succulents. However, chocolate soldier succulents are not as heat-tolerant as many other succulent species. They may suffer in extreme heat, especially if they are grown outside in the summer months. Keep this in mind when choosing a location for your plant. In addition, keep in mind that chocolate soldier succulents are also not cold-hardy. If you do set your plant outdoors for the summer, be sure you bring it back inside before the first sign of frost. "
+            }
+        },
+        "8" : {
+            "name" : "Zamioculcas zamiifolia",
+            "id" : "8",
+            "price" : "75" ,
+            "info" : "When you're just staring out with a houseplant collection, or looking for some undemanding green office decor, ZZ plant, Zamioculcas zamiifolia, lives up to one of its common names—Eternity Plant.This is an indoor tropical characterized by upright growth, shiny, oval-shaped, deep green leaves, and a reputation for being hard to kill. A good choice for almost any indoor environment, note that ZZ plants are toxic to people and pets.",
+            "details" : {
+                "How to Grow ZZ Plants" : "ZZ plants are low-maintenance houseplants even gardeners with black thumbs can keep alive. Other than a pot with adequate drainage and a location away from cold drafts, these plants don't require much. They thrive even in almost complete shade. Give ZZ plant at least a little indirect light daily for optimum growth and healthAllow soil to dry out completely between waterings. Plants can survive months without water.Protect ZZ plant from temperatures below 45°F",
+                "Light" : "ZZ plants adapt to a wide range of lighting conditions and can ‘technically’ survive without any natural light. They do best, though, in bright, indirect light and can get leggy when not given enough light. Avoid direct sunlight which scorches the leaves.",
+                "Water" : "ZZ plants grow from rhizomes that store water which makes them extremely drought tolerant. Let soil dry out completely in between waterings. A deep watering once every few weeks is often adequate depending on growing conditions. They can survive months without water, so missing a week or two isn't likely to cause a problem. It's better to underwater your ZZ plant than to overwater it.",
+                "Temperature and Humidity" : "Well-suited to average indoor temperatures and humidity, these tropical aroids do not tolerate cold temperatures and can suffer damage at temperatures lower than 45°F. Choose a spot away from drafts including cold air vents. Plants may benefit from increased humidity during dry winter months."
+            }
+        },
+        "9" : {
+            "name" : "Gasteria",
+            "id" : "9",
+            "price" : "50" ,
+            "info" : "Native to South Africa, gasteria (Gasteria spp.) is a genus of relatively rare, ​aloe-like succulents. It sometimes goes by the common name of 'ox tongue' because it typically has long leaves with a rough texture. This slow-growing plant tolerates lower light conditions even lightly shaded more than many other succulents do, making it a good option for a houseplant. Planting is best done in the spring, though you generally can start them as houseplants at any point. Gasteria plants are marked with interesting patterns and colors. Moreover, mature gasteria plants typically produce tubular, curved flowers in the winter to spring.",
+            "details" : {
+                "Gasteria Care" : "Gasteria thrives both as an indoor plant and in the outdoor garden if these main care requirements are met. Choose a spot that gets plenty of light but not direct sunlight. Bring indoor potted gasteria outdoors and place in light shade for the summer. Provide shelter from rainfall as these plants don't react well to direct water on leaves. Plant in conditions that drain well as good drainage is key to this plant's health.",
+                "Light" : "These plants appreciate bright light but not harsh and direct sun. Protect them from hot afternoon sunlight. White or yellow leaves can signify that the plant is getting too much sun.",
+                "Soil" : "For container plantings, use a cactus potting mix or another fast-draining potting soil mixed with a few handfuls of sand. For garden plantings, somewhat sandy soils with a pH of around 6 to 7 are best to provide sufficient drainage.",
+                "Water" : "Like other succulents, these plants don't need much water. Allow the soil to almost completely dry out between waterings. If the plant gets rainfall outdoors, usually no supplemental watering will be necessary.",
+                "Temperature and Humidity" : "Gasteria generally likes warm summers and slightly cool winters (down to 50 degrees Fahrenheit). This places them in Zones 9 to 11 in the United States where there's no chance of deadly frost. During warm weather, gasteria leaves might turn a lighter, brighter color, which is perfectly natural. Like most succulents, gasteria plants don't enjoy very humid environments. If you live in a humid climate, only water your plant when the soil is dry as the humidity will provide much of the plant's required moisture."
+            }
+        },
+        "10" : {
+            "name" : "Hens and chicks",
+            "id" : "10",
+            "price" : "100" ,
+            "info" : ""
+        },
+        "11" : {
+            "name" : "Prickly pear",
+            "id" : "11",
+            "price" : "100" ,
+            "info" : "The prickly pear cactus (Opuntia) is among the most widespread cactus genera in the U.S. With over 100 species, this plant is characterized by its spiny, flat, club-shaped pads. Many varieties have large, round spines, while others have tiny, hair-like barbs that detach upon contact. While cacti are generally known as warm-weather desert plants, there are some prickly pear species that are hardy as far north as USDA zone 4. Prickly pear is best planted outside in the spring after the threat of frost has passed. Some prickly pears produce fruits that are prized for their edibility, but the plant's growth rate is fairly slow and it can take three or four years before a new plant starts fruiting.",
+            "details" : {
+                "Prickly Pear Care" : "The different species of prickly pear have slightly different care needs, but in general, ample sun and well-draining soil are key to their growth. Sitting in soil that’s too moist can quickly kill the plant with various forms of rot. Prickly pear and other cacti go dormant in winter, and their pads appear to dry up or deflate. They will return to their normal plumpness in spring when you can prune off any unsightly pads or deformed growth.",
+                "Light" : "As a desert cactus, prickly pear thrives in full sun. That means at least six hours of direct sunlight per day. Indoors, a west- or south-facing window works best. In very hot climates, some shade during midday can prevent scald.",
+                "Soil" : "The most important requirement for any plant in the Opuntia genus is soil that drains well. Prickly pear easily grows in sandy or gravelly soil, but it can tolerate other soil types as long as there's good drainage and not too much water.",
+                "Water" : "Prickly pear likes dry conditions, and very little watering is required to maintain the plant. This is why the cactus is often used in low-water gardens. Limit your watering to every two to three weeks or whenever the soil is completely dry. When watering, simply moisten the soil without soaking it. If you get minimal rainfall, that's often all the plant needs. When growing prickly pear as a landscape plant in regions that get lots of rainfall, it's critical that the soil be extremely porous and well-draining.",
+                "Temperature and Humidity" : "Prickly pear cactus thrives in hot, dry desert summers. But many of its species have good cold tolerance. (Remember, desert nights can be cool.) It generally does well in regions that have mild winters and hot summers with low humidity. Prickly pear can struggle in areas that have very high humidity, even if the temperature is to the plant's liking. Typical indoor temperatures and humidity levels are usually fine for a prickly pear grown as a houseplant. However, keep the plant away from heat and air-conditioning sources, as they can cause extreme temperature fluctuations. "
+            }
+        },
+        "12" : {
+            "name" : "Prickly pear",
+            "id" : "12",
+            "price" : "100" ,
+            "info" : "The prickly pear cactus (Opuntia) is among the most widespread cactus genera in the U.S. With over 100 species, this plant is characterized by its spiny, flat, club-shaped pads. Many varieties have large, round spines, while others have tiny, hair-like barbs that detach upon contact. While cacti are generally known as warm-weather desert plants, there are some prickly pear species that are hardy as far north as USDA zone 4. Prickly pear is best planted outside in the spring after the threat of frost has passed. Some prickly pears produce fruits that are prized for their edibility, but the plant's growth rate is fairly slow and it can take three or four years before a new plant starts fruiting."
+            
+        }
+    }
+}
+
