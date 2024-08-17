@@ -5,8 +5,6 @@ export const cartReducer = (state=[], action) => {
     let index
     let check = false
 
-    let newState = [...state]
-    console.log('new State: ', newState)
     switch(action.type){
         case 'add' :
             state.forEach((e) => {
