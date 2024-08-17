@@ -5,6 +5,8 @@ export const cartReducer = (state=[], action) => {
     let index
     let check = false
 
+    let newState = [...state]
+    console.log('new State: ', newState)
     switch(action.type){
         case 'add' :
             state.forEach((e) => {
@@ -13,9 +15,8 @@ export const cartReducer = (state=[], action) => {
                     index = state.indexOf(e)
                 }
             })
-            check ? state[index].quantity += +action.payload.num : state.push({plant_id:action.payload.id, quantity: +action.payload.num, price: action.payload.price})
-            // state = action.payload
-            return state;
+            // check ? state[index].quantity += +action.payload.num : state.push({plant_id:action.payload.id, quantity: +action.payload.num, price: action.payload.price})
+            return check ? [...state.slice(0,index), {plant_id:action.payload.id, quantity: state[index].quantity + +action.payload.num, price: action.payload.price}, ...state.slice(index + 1)] : [...state, {plant_id:action.payload.id, quantity: +action.payload.num, price: action.payload.price}];
         case 'del' :
             state.forEach((e) => {
                 if(e.plant_id == action.payload){
@@ -27,22 +28,20 @@ export const cartReducer = (state=[], action) => {
             return state;
         case 'dec' :
             state.forEach((e) => {
-                if(e.plant_id == action.payload){
+                if(e.plant_id == action.payload.id){
                     index = state.indexOf(e)
                 }
             })
-            state[index].quantity > 1 ? state[index].quantity -= 1 : state = state.slice(0,index).concat(state.slice(index + 1,state.length))
-            
-            return state;
+            // state[index].quantity > 1 ? state[index].quantity -= 1 : state = state.slice(0,index).concat(state.slice(index + 1,state.length))
+
+            return state[index].quantity > 1 ? [...state.slice(0,index), {plant_id:action.payload.id, quantity: state[index].quantity - 1, price: action.payload.price}, ...state.slice(index + 1)] : state = state.slice(0,index).concat(state.slice(index + 1,state.length));
         case 'inc' :
             state.forEach((e) => {
-                if(e.plant_id == action.payload){
+                if(e.plant_id == action.payload.id){
                     index = state.indexOf(e)
                 }
             })
-            state[index].quantity += 1
-            
-            return state;
+            return [...state.slice(0,index), {plant_id:action.payload.id, quantity: state[index].quantity + 1, price: action.payload.price}, ...state.slice(index + 1)];
         default :
             return state;
     }

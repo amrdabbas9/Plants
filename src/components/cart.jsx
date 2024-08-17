@@ -18,33 +18,15 @@ const images = [Img1, Img2, Img3, Img4, Img5, Img6, Img7, Img8, Img9]
 
 
 function Cart(){
-    let [render, setRender] = useState(0)
     let cart = useSelector(state => state.cartReducer)
     let dispatch = useDispatch()
 
-    function handleclick(e){
-        console.log(e.target.id)
-            if(typeof e.target.className != 'object' ? e.target.className.includes('update') : e.target.className.baseVal.includes('update')){
-                setRender(render => render + 1);   
-            }
-    }
-    useEffect(()=>{
-    let listener = window.addEventListener('click', handleclick)
-        return() => {
-            // To Cleanup the Event Listener when the component unmount so we dont have it cause it will slower the app.
-            window.removeEventListener('click', handleclick)
-        }
-    },[])
     let totalprice = 0;
     return(
         <div id="cart" className="carting w-2/3 fixed bg-white h-dvh -left-full top-0 z-40 p-10 flex flex-col">
             <div className="flex-1 overflow-auto">
                 <div className="flex items-center justify-between">
                     <h1 className="text-green-700 text-2xl m-0">Your Cart :</h1>
-                    {/* <p id='update' className='p-2' onClick={() => {
-                        document.getElementById('cart').style.left == '0px' ? document.getElementById('cart').style.left = '-100%' : document.getElementById('cart').style.left = '0px';
-                        }}>
-                        Exit</p> */}
                         <SlClose className="text-green-700 text-2xl cursor-pointer" onClick={() => {
                         document.getElementById('cart').style.left == '0px' ? document.getElementById('cart').style.left = '-100%' : document.getElementById('cart').style.left = '0px';
                         }} />
@@ -64,10 +46,10 @@ function Cart(){
                             <div className="flex mr-3 items-center text-gray-400">
                                 <div className="mr-3 text-xs">
                                     <SlArrowUp className="update arrow" onClick={() => {
-                                        dispatch(inc(e.plant_id))
+                                        dispatch(inc(e.plant_id, 1, e.price))
                                     }} />
                                     <SlArrowDown className="update arrow" onClick={() => {
-                                    dispatch(dec(e.plant_id))
+                                    dispatch(dec(e.plant_id, 1, e.price))
                                     }} />
                                 </div>
                                 <div>

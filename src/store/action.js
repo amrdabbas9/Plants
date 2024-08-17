@@ -10,15 +10,15 @@ export let del = (data) => {
         payload:data
     }
 }
-export let dec = (data) => {
+export let dec = (data, dat = 1, price) => {
     return{
         type:'dec',
-        payload:data
+        payload:{id : data, num: dat, price:price}
     }
 }
-export let inc = (data) => {
+export let inc = (data, dat = 1, price) => {
     return{
         type:'inc',
-        payload:data
+        payload:{id : data, num: dat, price:price}
     }
 }
