@@ -15,7 +15,9 @@ function Landing(){
                 <button className="putton"><Link to='/shop'>Shop Collection</Link></button>
             </div>
             {/* <div className="flex-1 overflow-hidden"> */}
-                <img src={require('../imgs/la.jpg')} className="absolute landingimg scale-150 -translate-y-6"/>
+                {/* <img src={require('../imgs/la.jpg')} className="absolute landingimg scale-150 -translate-y-6"/> */}
+                <img src={require('../imgs/about.jpg')} className="absolute aboutimg"/>
+
                 {/* <img src={require('../imgs/la.jpg')} className="scale-125 -translate-y-6 translate-x-36"/> */}
                 {/* // className="w-full h-full"/>  */}
             {/* </div> */}
